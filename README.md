@@ -28,7 +28,7 @@ export_ps2_mesh_data(output_file_path)
 # JSON-PS2
 This script converts the JSON file generated into a C file what you can use as a mesh data.
 
-##Usage
+## Usage
 Run this in terminal.
 ```
 python3 convert_to_ps2_mesh.py <input_json_file> <output_c_file>
