@@ -109,7 +109,6 @@ def show_menu():
     print("="*40)
 
 def main_interactive():
-    print("[convert_to_ps2_mesh.py] Launching interactive menu...")
     while True:
         show_menu()
         choice = input("Enter your choice (1-2): ").strip()
