@@ -1,4 +1,4 @@
-# mayaobj-ps2
+# PS2 DEV model converter
 A Python tool that converts MAYA models to JSON --> which then makes a C file to use in ps2dev.
 
 # MayaOBJ-JSON
